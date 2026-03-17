@@ -1,7 +1,9 @@
 <div align="center">
   <h1>Yaswanth Raju</h1>
-  <h3>Software Engineer</h3>
-  <p>Engineering scalable systems and intelligent applications.</p>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Software+Engineer;Building+Scalable+Systems;AI+%26+Full-Stack+Developer" alt="Typing SVG" />
+  </a>
 </div>
 
 <br />
@@ -12,11 +14,29 @@ I'm a Full-Stack Developer specializing in building robust, high-performance web
 
 ## ⚡ Technical Expertise
 
-* **Languages**: `C`, `C++`, `Python`, `Java`, `JavaScript`
-* **Frontend**: `Next.js`, `React.js`, `TypeScript`, `Tailwind CSS`
-* **Backend**: `Node.js`, `Express.js`, `REST APIs`, `Go`
-* **Database**: `MongoDB`, `MySQL`, `PostgreSQL`
-* **DevOps**: `GitHub Actions (CI/CD)`, `DigitalOcean`, `Nginx`, `Docker`, `Linux/Ubuntu`
+<div align="center">
+
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,java,js&theme=dark" alt="Languages" />
+
+<br>
+
+**Frontend**<br>
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind&theme=dark" alt="Frontend" />
+
+<br>
+
+**Backend & Databases**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,go,mongodb,mysql,postgres&theme=dark" alt="Backend and Database" />
+
+<br>
+
+**DevOps & Tools**<br>
+<img src="https://skillicons.dev/icons?i=githubactions,docker,nginx,linux&theme=dark" alt="DevOps" />
+
+</div>
+
+<br>
 
 ## 🚀 Key Projects
 
@@ -52,6 +72,7 @@ Below are five select projects that highlight my experience in full-stack develo
 ## 📈 Open Source Activity
 
 <div align="center">
+  <p><b>🔥 228 Contributions in the last year</b></p>
   <img src="https://github-readme-stats.vercel.app/api?username=yaswanth756&show_icons=true&theme=transparent&hide_border=true&title_color=2f81f7&icon_color=2f81f7&text_color=c9d1d9&bg_color=0d1117" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth756&layout=compact&theme=transparent&hide_border=true&title_color=2f81f7&text_color=c9d1d9&bg_color=0d1117" width="48%" />
   <br /><br />
@@ -62,6 +83,6 @@ Below are five select projects that highlight my experience in full-stack develo
 
 <div align="center">
   <a href="https://github.com/yaswanth756">
-    <img src="https://img.shields.io/github/followers/yaswanth756?label=Follow%20%40yaswanth756&style=social" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/yaswanth756?label=Follow%20%40yaswanth756&style=social&color=2f81f7" alt="GitHub followers" />
   </a>
 </div>
